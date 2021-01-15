@@ -1,7 +1,7 @@
 #! /bin/sh
 
 # Constants
-PROOF_WALLET_TAG=v0.1-alpha
+PROOF_WALLET_TAG=v0.2-alpha
 PYTHON_MNEMONIC_HASH=ad06157e21fc2c2145c726efbfdcf69df1350061
 
 # Clone Proof Wallet and initalize submodule
